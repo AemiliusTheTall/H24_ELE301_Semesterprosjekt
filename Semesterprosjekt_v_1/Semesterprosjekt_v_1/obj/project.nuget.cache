@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lpaw5Vu24IU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emile\\OneDrive\\HVL\\S5 - Høst 2024\\ELE301 - Industriell IT\\Prosjekt\\Semesterprosjekt_v_1\\Semesterprosjekt_v_1\\Semesterprosjekt_v_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emile\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\emile\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\emile\\.nuget\\packages\\npgsql\\8.0.5\\npgsql.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
